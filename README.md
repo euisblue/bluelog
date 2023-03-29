@@ -1,4 +1,4 @@
-# [Blue Blog](http://euisblue.me/)
+# [Blue Blog](https://bluelog-b6d3ilsz3-euisblue.vercel.app/)
 
 
 ## Progress
